@@ -66,12 +66,14 @@
 6. Выгрузка в GitHub
 7. Документирование проекта
 
-Файл программы с результами работы [можно скачать тут](https://github.com/dnt1971/SkillFactory_DS_dnt_17_project_02/blob/master/Project_2_Ноутбук_шаблон.ipynb) 
-  
+Файл программы с результами работы [можно скачать тут](https://github.com/dnt1971/PROJECT-3.-EDA-Feature-Engineering.-Kaggle/blob/master/EDA_Project_3_model.ipynb).
+
+
 :arrow_up:[к оглавлению](#оглавление)
 
 ### Результаты:  
-Приведены числовые значения, таблицы и графики по каждому вопросу задания
+Построена модель, предсказывающая рейтинг
+Файл с предсказанными рейтингами [тут](https://github.com/dnt1971/PROJECT-3.-EDA-Feature-Engineering.-Kaggle/blob/master/hotels_submit_predict.csv).
 
 :arrow_up:[к оглавлению](#оглавление)
 
